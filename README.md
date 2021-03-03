@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Preview UI
-<img src="https://github.com/VConhariki/id_app/blob/master/assets/app-preview.gif" width="300" height="500" />
+<img src="https://github.com/VConhariki/id_app/blob/master/assets/app-preview.gif" width="300" height="550" />
